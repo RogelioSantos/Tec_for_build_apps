@@ -1,0 +1,36 @@
+using System;
+
+namespace malEjemplo;
+
+public class ZTE : Telefono
+{
+    public ZTE(string marca, int modelo, int precio, int RAM) : base(marca, modelo, precio, RAM)
+    {
+    }
+
+
+    public override void escribir()
+    {
+        Console.WriteLine($"Escribiendo desde mi {marca}");
+    }
+
+    public override void llamar()
+    {
+        Console.WriteLine($"Llamando desde mi {marca}");
+    }
+
+    public override void pagarConNFC()
+    {
+        Console.WriteLine($"Este dispositivo no tiene NFC");
+    }
+
+    public override void usarAsistenteVirtual()
+    {
+        Console.WriteLine($"Usando asistente virtual desde mi {marca}");
+    }
+
+    public override void desbloquearConHuella()
+    {
+        Console.WriteLine($"Desbloqueando mi {marca} con huella dactilar");
+    }
+}

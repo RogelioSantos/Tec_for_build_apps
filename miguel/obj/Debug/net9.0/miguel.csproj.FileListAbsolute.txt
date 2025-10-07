@@ -1,0 +1,15 @@
+C:\Users\roger\magdiel\miguel\obj\Debug\net9.0\miguel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\magdiel\miguel\obj\Debug\net9.0\miguel.AssemblyInfoInputs.cache
+C:\Users\roger\magdiel\miguel\obj\Debug\net9.0\miguel.AssemblyInfo.cs
+C:\Users\roger\magdiel\miguel\obj\Debug\net9.0\miguel.csproj.CoreCompileInputs.cache
+C:\Users\roger\magdiel\miguel\obj\Debug\net9.0\miguel.sourcelink.json
+C:\Users\roger\magdiel\miguel\bin\Debug\net9.0\miguel.exe
+C:\Users\roger\magdiel\miguel\bin\Debug\net9.0\miguel.deps.json
+C:\Users\roger\magdiel\miguel\bin\Debug\net9.0\miguel.runtimeconfig.json
+C:\Users\roger\magdiel\miguel\bin\Debug\net9.0\miguel.dll
+C:\Users\roger\magdiel\miguel\bin\Debug\net9.0\miguel.pdb
+C:\Users\roger\magdiel\miguel\obj\Debug\net9.0\miguel.dll
+C:\Users\roger\magdiel\miguel\obj\Debug\net9.0\refint\miguel.dll
+C:\Users\roger\magdiel\miguel\obj\Debug\net9.0\miguel.pdb
+C:\Users\roger\magdiel\miguel\obj\Debug\net9.0\miguel.genruntimeconfig.cache
+C:\Users\roger\magdiel\miguel\obj\Debug\net9.0\ref\miguel.dll
