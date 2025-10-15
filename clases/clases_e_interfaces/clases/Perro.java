@@ -1,4 +1,4 @@
-package clases;
+package clases.clases_e_interfaces.clases;
 
 public class Perro {
     private int edad;

@@ -1,4 +1,4 @@
-package clases_abstractas;
+package clases.clases_e_interfaces.clases_abstractas;
 
 public interface Volador {
     int cantidadAlas = 2;
